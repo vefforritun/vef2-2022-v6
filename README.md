@@ -67,7 +67,7 @@ Setja skal upp einfalt viðmót.
 
 Leyfilegt er að nota CSS eða Sass.
 
-Hægt er að sjá [sýnilausn keyrandi](https://vef2-2022-v6-synilausn-vert.vercel.app/).
+Hægt er að sjá [sýnilausn keyrandi](https://vef2-2022-v6-synilausn-ea7zi4uq9-vefforritun.vercel.app/).
 
 ## Hýsing
 
