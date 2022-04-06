@@ -1,7 +1,5 @@
 # Vefforritun 2, 2022, verkefni 6
 
-[Kynning á verkefni](https://youtu.be/).
-
 Tengjast skal Prismic repo og sækja þaðan upplýsingar um forsíðu og a.m.k. tvær aðrar síður.
 
 Eftirfarandi eru markmið verkefnisins:
